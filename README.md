@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl when deleting elements from an array while iterating over it using a foreach loop. The provided `bug.pl` file showcases the issue, while `bugSolution.pl` offers a corrected approach.
