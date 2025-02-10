@@ -1,0 +1,1 @@
+my @array = (1, 2, 3); foreach my $i (@array) { if ($i == 2) { delete @array[$i -1]; } } print @array;
